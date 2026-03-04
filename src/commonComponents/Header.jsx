@@ -66,11 +66,11 @@ const Header = () => {
             <div className="border-b border-[color:var(--color-divider)] bg-white">
                 <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4">
                     <div className="flex items-center gap-3">
-                        <div className="flex h-6 w-8 items-center justify-center text-white">
+                        <div className="flex h-6 w-10 items-center justify-center text-white">
                             <img
-                                src="https://e7.pngegg.com/pngimages/112/579/png-clipart-institute-of-chartered-accountants-of-india-accounting-tax-logo-graphics-miscellaneous-blue.png"
+                                src="https://vectorseek.com/wp-content/uploads/2023/09/Institute-of-Chartered-Accountants-Logo-Vector.svg-.png"
                                 alt="HSDG & Associates"
-                                className="h-full w-auto rounded-3xl"
+                                className="h-full w-full"
                             />
                         </div>
                         <div>
@@ -78,7 +78,7 @@ const Header = () => {
                                 HSDG & Associates
                             </p>
                             <p className="text-xs text-[color:var(--color-paragraph)]">
-                                Chartered Accountants & Multidisciplinary Professional Firm
+                                Chartered Accountants
                             </p>
                         </div>
                     </div>
