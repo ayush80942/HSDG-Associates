@@ -349,7 +349,7 @@ const ContactUs = () => {
 						</p>
 					</article>
 
-					<div className="mt-6 grid gap-6 md:grid-cols-3">
+					<div className="mt-6 grid gap-3 md:grid-cols-6">
 						{offices.map((office) => (
 							<article
 								key={office.name}
@@ -378,8 +378,8 @@ const ContactUs = () => {
 								<p className="mt-1 text-xs font-semibold uppercase tracking-wide text-[color:var(--color-paragraph)]">
 									{office.type}
 								</p>
-								<div className="mx-auto my-4 h-px w-12 bg-[color:var(--color-divider)]" />
-								<p className="text-sm text-[color:var(--color-paragraph)]">{office.address}</p>
+								{/* <div className="mx-auto my-4 h-px w-12 bg-[color:var(--color-divider)]" />
+								<p className="text-sm text-[color:var(--color-paragraph)]">{office.address}</p> */}
 							</article>
 						))}
 					</div>
