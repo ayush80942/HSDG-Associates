@@ -24,8 +24,8 @@ const Footer = () => {
 								</svg>
 							</div>
 							<p className="text-sm leading-relaxed text-white/80">
-								D-194, First Floor, Okhla Phase I, 
-								<br />New Delhi - 110020
+								16/7, LGF, Kalkaji, 
+								<br />New Delhi - 110019
 							</p>
 						</div>
 					</div>
