@@ -24,7 +24,7 @@ const Footer = () => {
 								</svg>
 							</div>
 							<p className="text-sm leading-relaxed text-white/80">
-								16/7, LGF, Kalkaji, 
+								16/7, LGF, Kalkaji, Near Deshbandhu College
 								<br />New Delhi - 110019
 							</p>
 						</div>
